@@ -12,7 +12,10 @@ This is a Tamagotchi. It is a small handheld video game in which you have a pet.
 
 ## Case
 
+![Tamagotchi Case](assets/tamagotchi.png)
+
 ## Zine
+![Zine](assets/zine.png)
 
 ## Why did I make it?
 
