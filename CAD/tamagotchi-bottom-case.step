@@ -10,7 +10,7 @@ FILE_DESCRIPTION(
 
 FILE_NAME(
 /* name */ 'tamagotchi-bottom-case.step',
-/* time_stamp */ '2026-05-31T15:21:43+05:30',
+/* time_stamp */ '2026-06-05T20:28:26+05:30',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v20.1',
@@ -8645,17 +8645,18 @@ SOLID_ANGLE_UNIT()
 #8531=PRODUCT_DEFINITION_SHAPE('',$,#8534);
 #8532=SHAPE_REPRESENTATION('',(#5406),#8524);
 #8533=PRODUCT_DEFINITION_CONTEXT('part definition',#8538,'design');
-#8534=PRODUCT_DEFINITION('2026-05-25-22-13-16-598',
-'tamagotchi-bottom-case',#8535,#8533);
+#8534=PRODUCT_DEFINITION('2026-06-05-14-58-10-293',
+'new-tamagotchi-bottom-case',#8535,#8533);
 #8535=PRODUCT_DEFINITION_FORMATION('',$,#8540);
-#8536=PRODUCT_RELATED_PRODUCT_CATEGORY('tamagotchi-bottom-case',
-'tamagotchi-bottom-case',(#8540));
+#8536=PRODUCT_RELATED_PRODUCT_CATEGORY('new-tamagotchi-bottom-case',
+'new-tamagotchi-bottom-case',(#8540));
 #8537=APPLICATION_PROTOCOL_DEFINITION('international standard',
 'automotive_design',2009,#8538);
 #8538=APPLICATION_CONTEXT(
 'Core Data for Automotive Mechanical Design Process');
 #8539=PRODUCT_CONTEXT('part definition',#8538,'mechanical');
-#8540=PRODUCT('2026-05-25-22-13-16-598','tamagotchi-bottom-case',$,(#8539));
+#8540=PRODUCT('2026-06-05-14-58-10-293','new-tamagotchi-bottom-case',$,
+(#8539));
 #8541=PRESENTATION_STYLE_ASSIGNMENT((#8543));
 #8542=PRESENTATION_STYLE_ASSIGNMENT((#8544));
 #8543=SURFACE_STYLE_USAGE(.BOTH.,#8545);
