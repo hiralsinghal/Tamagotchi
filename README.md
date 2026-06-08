@@ -16,7 +16,7 @@ This is a Tamagotchi. It is a small handheld video game in which you have a pet.
 
 ## BOM
 
-![BOM](./BOM.csv)
+![BOM](assets/BOM.png)
 
 ## Zine
 ![Zine](assets/zine.png)
