@@ -4,7 +4,7 @@ This is a Tamagotchi. It is a small handheld video game in which you have a pet.
 
 ## Schematic
 
-![Schematic](assets/schematic.png)
+![Schematic](assets/schematic-pic.png)
 
 ## PCB
 
@@ -16,7 +16,7 @@ This is a Tamagotchi. It is a small handheld video game in which you have a pet.
 
 ## BOM
 
-![BOM](BOM.csv)
+![BOM](BOM-1.csv)
 
 ## Zine
 ![Zine](assets/zine.png)
