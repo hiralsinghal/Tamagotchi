@@ -26,6 +26,8 @@ Its a pentagon shaped PCB, which has stars on it silkscreen.
 
 I made the case using Fusion. It has stars on the top case (goes with the PCB).
 
+The source file is in the folder CAD.
+
 ![Tamagotchi Case](assets/tamagotchi.png)
 
 ## BOM
